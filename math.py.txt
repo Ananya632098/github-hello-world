@@ -1,0 +1,17 @@
+def add(x,y):
+addition
+return x+y;
+return x+y
+if x and y=0 no change
+def sub(x,y):
+if (x<y)
+return error
+else
+x-y
+pass
+def mul(x,y):
+pass
+def div(x,y):
+if(y!=0):
+return x/y
+cd
