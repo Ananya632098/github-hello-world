@@ -3,6 +3,8 @@ return x+y;
 return x+y
 if x and y=0 no change
 def sub(x,y):
+if (x<y)
+return error!!
 else
 x-y
 pass
